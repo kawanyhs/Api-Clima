@@ -8,14 +8,14 @@ Projeto desenvolvido nas aulas do Senai para criar uma interface de clima.
  
  ## Trabalho em grupo 
  
- Caua Vital
- Gislaine souza
- Heliana Beatriz
- Kawany Helen 
- Lais Vitória
- Maria Isabel
+ Caua Vital;
+ Gislaine souza;
+ Heliana Beatriz;
+ Kawany Helen; 
+ Lais Vitória;
+ Maria Isabel;
  Shamara Korolina
- samnara Estefane 
+  e Samnara Estefane 
 
  ## Tecnologias utilizadas
 
